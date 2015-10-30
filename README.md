@@ -1,4 +1,4 @@
-Lazy Line Painter
+Lazy Line Painter2
 =================
 
 A jQuery plugin for path animation using the CSS.
